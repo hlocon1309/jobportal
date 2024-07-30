@@ -1,2 +1,2 @@
 # jobportal
-Job Portal using React (Example Project)
+## Job Portal using React (Example Project)
